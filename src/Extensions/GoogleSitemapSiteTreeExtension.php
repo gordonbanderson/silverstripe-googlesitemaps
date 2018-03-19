@@ -7,6 +7,7 @@ use SilverStripe\ErrorPage\ErrorPage;
 use SilverStripe\Forms\DropdownField;
 use SilverStripe\Forms\LiteralField;
 use SilverStripe\Forms\Tab;
+use SilverStripe\ORM\ArrayList;
 
 class GoogleSitemapSiteTreeExtension extends GoogleSitemapExtension
 {
