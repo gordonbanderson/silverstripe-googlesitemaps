@@ -6,7 +6,7 @@
       <head>
         <title>XML Sitemap</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <link rel="stylesheet" href="resources/wilr/silverstripe-googlesitemaps/css/style.css" />
+        <link rel="stylesheet" href="/resources/vendor/silverstripe/googlesitemaps/css/style.css" />
       </head>
       <body>
         <div id="content">
